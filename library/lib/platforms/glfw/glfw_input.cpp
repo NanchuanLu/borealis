@@ -33,7 +33,7 @@ namespace brls
 
 // LT and RT do not exist here because they are axes
 static const size_t GLFW_BUTTONS_MAPPING[GLFW_GAMEPAD_BUTTON_MAX] = {
-	BUTTON_B, // GLFW_GAMEPAD_BUTTON_A
+    BUTTON_B, // GLFW_GAMEPAD_BUTTON_A
     BUTTON_A, // GLFW_GAMEPAD_BUTTON_B
 //    BUTTON_A, // GLFW_GAMEPAD_BUTTON_A
 //    BUTTON_B, // GLFW_GAMEPAD_BUTTON_B
